@@ -1,0 +1,236 @@
+body
+{
+    margin: 0 auto;
+    font-family: 'Roboto',sans-serif;
+}
+*
+{
+    box-sizing: border-box;
+}
+*
+{
+margin: 0;
+}
+.logo
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    
+}
+.site_header
+{
+    width: 100%;
+    background-color: #007765;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+.novigation
+{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.link
+{
+    font-size:24px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-decoration: none;
+}
+a:hover
+{
+    font-size:27px;
+    text-decoration:underline;
+}
+.main_conteiner
+{
+    width: 100%;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.conteiner1
+{
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+.section_1
+{
+background: url(image.png) center no-repeat;
+background-size:cover;
+padding-top: 200px;
+padding-bottom: 131px;
+}
+.section1_h1
+{
+color:#FFFFFF;
+font-size: 72px;
+text-align: center;
+font-weight:normal;
+margin-top: 0;
+margin-bottom: 0;
+}
+.conteiner2
+{
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+  font-size: 32px;
+}
+.section_2
+{
+background-color: #EEEEEE;
+background-size:cover;
+padding-bottom: 80px;
+padding-top: 40px;
+}
+.section2_h1
+{
+color:#007765;
+font-size: 64px;
+text-align: center;
+font-weight:normal;
+margin-top: 48px;
+margin-bottom: 32px;
+line-height: 75px;
+}
+.conteiner3
+{
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+.section_3
+{
+background:url(Hero.png) center no-repeat;
+background-size:cover;
+padding-bottom: 110px;
+padding-top: 40px;
+}
+.section3_h2
+{
+    width: 100%;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+    margin-top: 95px;
+}
+.conteiner4
+{
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+  font-size: 32px;
+}
+.section_4
+{
+background-color: #FFFFFF;
+background-size:cover;
+padding-bottom: 80px;
+padding-top: 40px;
+}
+.section4_h1
+{
+color:#007765;
+font-size: 64px;
+text-align: center;
+font-weight:normal;
+margin-top: 48px;
+margin-bottom: 32px;;
+line-height: 75px
+}
+.logo2
+{
+    float: left;
+    margin-right: 48px;
+}
+.conteiner5
+{
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+.section_5
+{
+background-color: #EEEEEE;
+background-size:cover;
+padding-bottom: 80px;
+padding-top:40px;
+}
+.section5_h1
+{
+color:#007765;
+font-size: 64px;
+text-align: center;
+font-weight:normal;
+margin-top: 48px;
+margin-bottom: 60px;;
+line-height: 75px
+}
+.team
+{
+    display: inline-block;
+    width: 360px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.name
+{
+    font-size: 24px;
+    font-weight: bold;
+    color: #007765;
+}
+.job_title
+{
+    font-size: 18px;
+    color: black;
+    font-style: italic;
+    font-weight: normal;
+}
+.conteiner6
+{
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+.section_6
+{
+background:#333333;
+background-size:cover;
+padding-top: 60px;
+padding-bottom: 60px;
+}
+.text_conteiner6
+{
+    width: 540px;
+    height: 64px;
+    margin: 0 auto;
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
